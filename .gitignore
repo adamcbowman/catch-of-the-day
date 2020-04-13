@@ -1,0 +1,6 @@
+.now
+node_modules
+base.js
+build
+now.json
+
